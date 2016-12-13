@@ -27,7 +27,7 @@ Steps taken:
 * Cleaning Data
 * Data exploration and visualization
 * Cross-validation
-* Prediction using varios algorithms
+* Prediction using various algorithms
 * Algorithm comparison and final decision
 
 Programming environment used: R
