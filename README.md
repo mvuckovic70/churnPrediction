@@ -13,7 +13,7 @@ Short description of the problem:
 
 Customer behavior analysis is a very challenging area within any business environment. Usually, companies take a tradiditonal analytic approach based on widely available company transactional data (payments, revenues, profitability, etc). However, many other aspects of this subject related to the customer management and behavioral observation, remain either uncovered or underestimated.
 
-What happened in the past is a treasury for predicting the future. Customer's choice of staying or leaving depends on many factors already present in empirical data of enterprise databases. Some of the factors (in machine learning called predictors) have the bigger impact to the customer's choice (response variable); some of them are less significant; sometimes the combination of various factors account more for the variability of the response variable; and sometimes the factors are mutually correlated rather than having larger influence to the customer's choice.
+What happened in the past is a treasury for predicting the future. Customer's choice of staying or leaving depends on many factors already present in empirical data of enterprise databases. Some of the factors (in machine learning called predictors) have the bigger impact to the customer's choice (response variable); some of them are less significant; sometimes the combination of various factors account more for the variability in the response variable; and sometimes the factors are mutually correlated rather than having larger influence to the customer's choice.
 
 To determine the importance of those factors and calculate overall probability of customer churn, we need to name the problem and to define the statistical tools.
 
