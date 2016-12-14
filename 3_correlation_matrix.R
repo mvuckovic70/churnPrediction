@@ -1,3 +1,12 @@
+# link to the loading code
+
+codePath <- list(data='D:/Projects/datasets/mobile/codes/')
+codeInit <- c('1_initialization.R')
+codeClean <- c('2_cleaning.R')
+
+source(paste0(codePath$data, codeClean))
+source(paste0(codePath$data, codeInit))
+
 # function for correlation test
 # run using corrMatrix()
 
