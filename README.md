@@ -19,7 +19,7 @@ To determine the importance of those factors and calculate overall probability o
 
 The problem is called binary classification problem because the methodology predicts the probability of a customer to stay or leave (simply put: yes or no; 1 or 0).
 
-The machine learning area dealing with such problems is called supervised machine learning, because algorithm learns from known part of  data and tries to predict the unknown part of data, with supervision of data scientist telling to the machine which variable should be classified.
+The machine learning area dealing with such problems is called supervised machine learning, because algorithm learns from known part of  data and tries to predict the unknown part of data, with supervision of data scientist who instructs the machine during the process.
 
 Steps taken:
 
