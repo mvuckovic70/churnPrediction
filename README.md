@@ -31,4 +31,3 @@ Steps taken:
 * Algorithm comparison and final decision
 
 Programming environment used: R
-
