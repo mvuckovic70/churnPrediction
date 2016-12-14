@@ -5,7 +5,7 @@ Main subject: Using various methods in R to predict or classify the customer chu
 * Dataset being used: churn.txt
 * Number of observations: 3,333
 * Number of features (variables): 21 -> representing individual customers of a mobile company
-* Response variable: [churn.] (during the analysis converted to [choice] for easier manipulation)
+* Response variable: 'choice' (variable names are being renamed during the loading process)
 * URL location of the dataset: http://www.dataminingconsultant.com/data/churn.txt
 * Features description: http://www.sgi.com/tech/mlc/db/churn.names
 
