@@ -1,9 +1,3 @@
-# link to the loading code
-
-codePath <- list(data='D:/Projects/datasets/mobile/codes/')
-codeInit <- c('1_initialization.R')
-source(paste0(codePath$data, codeInit))
-
 # some factor conversions
 
 factors <- c(1, 3, 5, 6, 20, 21)
@@ -36,4 +30,3 @@ churnNum$phone <- NULL
 
 clear()
 str(churnNum)
-
