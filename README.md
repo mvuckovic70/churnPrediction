@@ -26,7 +26,7 @@ Steps taken:
 * Loading data
 * Cleaning Data
 * Data exploration and visualization
-* Cross-validation
+* Sampling (train/test creation) and Cross-validation
 * Prediction using various algorithms
 * Algorithm comparison and final decision
 
