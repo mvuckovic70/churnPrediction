@@ -1,4 +1,4 @@
-# survival analysis with Proportional Hazards Regression Model
+# basic survival analysis with Proportional Hazards Regression Model
 
 library(survival)
 
