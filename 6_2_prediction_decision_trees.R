@@ -56,4 +56,4 @@ ctree.perf
 # Actual      not-churn churn
 # not-churn       837    20
 # churn            54    89
-# accuracy: 928 / 1000 = .928
+# accuracy: 926 / 1000 = .926
