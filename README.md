@@ -1,6 +1,6 @@
 # Churn Prediction in R
 
-Main subject: Using various methods in R to predict or classify the customer churn in a mobile industry.
+Main subject: Using various machine learning models in R to predict or classify the customer churn in a mobile industry.
 
 * Dataset being used: churn.txt
 * Number of observations: 3,333
